@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexReadout", "YandexReadout.csproj", "{003C32A3-9DA1-46A4-99B3-20847CE56DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003C32A3-9DA1-46A4-99B3-20847CE56DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003C32A3-9DA1-46A4-99B3-20847CE56DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003C32A3-9DA1-46A4-99B3-20847CE56DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003C32A3-9DA1-46A4-99B3-20847CE56DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36E801CC-A141-4FD9-AF1B-D1A533AA0DE9}
+	EndGlobalSection
+EndGlobal
